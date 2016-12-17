@@ -82,7 +82,7 @@ syun_tokuneta_price = {'お子様大好き三貫盛り鮮極鮭いくら掛け':
                 '炙り白子の茶碗蒸し':194,'寒ぶりのあら汁':324,'神戸牛入り甘辛ごぼうのぶっかけうどん':324,'北海道産小麦のまるごとシフォンケーキ':324,'種子島産安納芋プリン':216}
 
 menu_dict = {1:common_nigiri,2:aburi_tenpura,3:gunkan_makimono,4:sousaku_niku,5:kiwami,6:sidemenu,7:sirumono_men,8:sweets,9:syun_tokuneta}
-menuname_dict = {1:'common_nigiri',2:'aburi_tenpura',3:'gunkan_makimono',4:'sousaku_niku',5:'kiwami',6:'sidemenu',7:'sirumono_men',8:'sweets',9:'syun_tokuneta'}
+menuname_dict = {1:'定番にぎり',2:'炙り・天ぷら',3:'軍艦・巻物',4:'創作・肉寿司',5:'極みネタ',6:'一品物',7:'お椀・麺',8:'デザート',9:'旬・特ネタ'}
 price_dict = {1:common_nigiri_price,2:aburi_tenpura_price,3:gunkan_makimono_price,
                 4:sousaku_niku_price,5:kiwami_price,6:sidemenu_price,
                 7:sirumono_men_price,8:sweets_price,9:syun_tokuneta_price}
